@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.7;
+    background: url(/images/ocean-3605547__340.jpg);
+    
+
+}
+
+.ul-items{
+display: flex;
+}
